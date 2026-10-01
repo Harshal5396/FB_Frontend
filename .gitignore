@@ -1,0 +1,38 @@
+# Node / Frontend
+node_modules/
+dist/
+build/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Data folders
+data/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Excel temp
+~$*.xlsx
+Thumbs.db
